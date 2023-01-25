@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/hackerbay/interview/master/companylogo.png" alt="HackerBay Logo" width="100" height="100">
+# OneUptime Interview. 
 
-# HackerBay Interview. 
-
-Thank you for interviewing with HackerBay. We're currently interviewing and hiring for these roles:
+Thank you for interviewing with OneuUptime. We're currently interviewing and hiring for these roles:
 
 **Software Engineering**
 - [Full Stack Developer](/software-full-stack.md)
