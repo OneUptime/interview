@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/hackerbay/interview/master/companylogo.png" alt="HackerBay Logo" width="100" height="100">
+# Full Stack Developer Interview at OneUptime. 
 
-# Full Stack Developer Interview at HackerBay. 
-
-Thank you for interviewing with HackerBay. Please note this is a full time job and you’re required to work 40 hrs/week. You’ll not be legally allowed to work for anyone else when you’re working with us. 
+Thank you for interviewing with OneUptime. Please note this is a full time job and you’re required to work 40 hrs/week. You’ll not be legally allowed to work for anyone else when you’re working with us. 
 
 You will be working on these technologies when you’re working with us. 
 * Typescript
@@ -122,13 +120,13 @@ Technically, NYC. Honestly, it doesn't matter. You can work out of anywhere you 
 
 Yes. We're NOT looking for part time employees. 
 
-**What are the minimum requirements to work at HackerBay?**
+**What are the minimum requirements to work at OneUptime?**
 
 An Ubuntu or a MacOS machine with atleast 16 GB of RAM and 10 mbps internet connectivity at all times. If you do not have a machine reliable enough to work that meets these requirements. Please do not apply. 
 
 **Can I work with you if I'm a student?**
 
-No. ONLY work on these interview tasks if you have NO OTHER commitments. We have tried this before and this doesn't work. If you are a sudent, you should check out [HackerBay University](https://hackerbayuniversity.com)
+No. ONLY work on these interview tasks if you have NO OTHER commitments. We have tried this before and this doesn't work. You can always contribute to open source and if we like your work, we will hire you. 
 
 **What do I need to work?**
 
@@ -148,7 +146,7 @@ No. ReactJs is easy to learn. 3 days is enough to learn ReactJS from scratch and
 
 **Where do I send my GitHub link?**
 
-Email us at interviews@hackerbay.io
+Email us at interviews@oneuptime.com
 
 **Is 3 day time period mentioned is for each round (Round 1 and Round 2) or both combined**
 
@@ -160,23 +158,7 @@ It depends on you. As soon as you finish both the rounds. We'll have 2 Skype cal
 
 **Can I know more about the company?**
 
-Sure, Here are few things you can check out:
-
-Website: https://hackerbay.io
-
-Our Products: CloudBoost.io, Fyipe.com, Genosyn.com
-
-Employee Handbook: https://handbook.hackerbay.io
-
-More Info: Email interviews@hackerbay.io
-
-**Does hackerbay.com, hackerbay.co belong to you?**
-
-No. Official website of the company is hackerbay.io
-
-**What's the work culture here at HackerBay?**
-
-Please read [the company handbook](https://handbook.hackerbay.io). 
+Yes, please head over to our website at https://oneuptime.com or join the open source slack and ask questions. 
 
 **Is this job remote?**
 
@@ -208,5 +190,5 @@ Yes. We are. We aren't going anywhere. You'll be safe with us.
 
 ## Equal Opportunity Employer
 
-HackerBay, Inc. is an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression.
+OneUptime Limited is an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression.
 
