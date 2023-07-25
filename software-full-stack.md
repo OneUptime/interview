@@ -101,8 +101,8 @@ Email us the following:
 
 **Reference Check:**
 
-You need to give us of at least 3 people who have worked with you in the past, ideally this could be: 
-- Manger who you were reporting to in your last company. This can be managers of several companies who you've worked with in the last few years.  
+You need to give us at least 3 people who have worked with you in the past, ideally this could be: 
+- Manager who you were reporting to at your last company. This can be managers of several companies who you've worked with in the last few years.  
 - A peer who can vouch for you. 
 
 ### FAQ
