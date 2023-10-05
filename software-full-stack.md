@@ -114,7 +114,7 @@ If you're rejected, the issues and code you've worked on belongs to the open sou
 
 **Where are you based?**
 
-Technically, NYC. Honestly, it doesn't matter. You can work out of anywhere you like. This job is remote.  
+This job is remote.  
 
 **Is this job full time?**
 
@@ -136,9 +136,6 @@ A solid laptop with a stable and a fast internet connection. That's quite about 
 
 Now. 
 
-**Is my salary negotiable?**
-
-No. We pay everyone in the company equally. All Jr Devs are paid the same, all the Sr devs are paid the same, etc. Your salary depends only on your role. 
 
 **Can I do Round 2 in AngularJS instead?**
 
@@ -170,15 +167,11 @@ You'll be paid in USD. Contact soemone who sent you an interview invite to know 
 
 **Do we have paid leaves?**
 
-Yes. You have 2 paid leaves a month.
+Yes. We offer unlimited vacation time and leaves. 
 
 **How many hours/week will I be working?** 
 
-40
-
-**Will I work on client projects or one of your products?** 
-
-It depends on availability. You'll be working on an interesting product - it can be client's or the company's. 
+We do not count number of hours. Since this job is remote and async, it all depends on you. 
 
 **When will I be paid?**
 
