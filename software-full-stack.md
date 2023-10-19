@@ -165,7 +165,7 @@ Yes. You can work from anywhere you like.
 
 **How much will I be paid?**
 
-You'll be paid in USD. Contact soemone who sent you an interview invite to know how much we'd pay. 
+You'll be paid in USD. Salary Range for this role is 200K USD-250K USD regardless of loation you work from. 
 
 **Do we have paid leaves?**
 
@@ -185,5 +185,5 @@ Yes. We are. We aren't going anywhere. You'll be safe with us.
 
 ## Equal Opportunity Employer
 
-OneUptime Limited is an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression.
+We are an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression.
 
