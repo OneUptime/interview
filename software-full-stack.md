@@ -11,7 +11,7 @@ You will be working on these technologies when you’re working with us.
 * Tests with Mocha, Chai, Puppeteer, Jest etc. 
 * Postgres DB
 
-**Salary Range:** 200K USDyr - 250K USD/yr
+**Salary Range:** 200K USD/yr - 250K USD/yr
 
 ### Job Description
 #### Responsibilities
