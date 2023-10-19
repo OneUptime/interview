@@ -1,6 +1,6 @@
 # Full Stack Developer Interview at OneUptime. 
 
-Thank you for interviewing with OneUptime. Please note this is a full time job and you’re required to work 40 hrs/week. You’ll not be legally allowed to work for anyone else when you’re working with us. 
+Thank you for interviewing with OneUptime. 
 
 You will be working on these technologies when you’re working with us. 
 * Typescript
