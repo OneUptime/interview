@@ -124,7 +124,7 @@ Yes. We're NOT looking for part time employees.
 
 **What are the minimum requirements to work at OneUptime?**
 
-An Ubuntu or a MacOS machine with atleast 16 GB of RAM and 10 mbps internet connectivity at all times. If you do not have a machine reliable enough to work that meets these requirements. Please do not apply. 
+Any Ubuntu or a MacOS machine with atleast 16 GB of RAM and 10 mbps internet connectivity should do the job.
 
 **Can I work with you if I'm a student?**
 
@@ -141,7 +141,7 @@ Now.
 
 **Can I do Round 2 in AngularJS instead?**
 
-No. ReactJs is easy to learn. 3 days is enough to learn ReactJS from scratch and implement the project. 
+No, we're a React company and we expect things to be done in React.  
 
 **Where do I send my GitHub link?**
 
@@ -153,7 +153,7 @@ It's for each Round. 3 Days for Round 1 and 3 Days for Round 2. In total, you ha
 
 **When will I know if I'm selected?**
 
-It depends on you. As soon as you finish both the rounds. We'll have 2 Skype calls next business day and we'll let you know about our decision on the same day. Date of Joining depends on your notice period with your current place of work. We usually want engineers join us as soon as they can. If you don't have a notice period, you can join as soon as we make a decision and start the onboarding process. 
+It depends on you. As soon as you finish both the rounds. We'll have 2 video calls next business day and we'll let you know about our decision on the same day. Date of Joining depends on your notice period with your current place of work. We usually want engineers join us as soon as they can. If you don't have a notice period, you can join as soon as we make a decision and start the onboarding process. 
 
 **Can I know more about the company?**
 
