@@ -52,7 +52,7 @@ You will be working on these technologies when you’re working with us.
 
 - Excellent communication and organizational skills
 - Developing for mobile platforms
-- Twitter Bootstrap and LESS
+- Tailwind CSS
 
 ### Interview Rounds
 
