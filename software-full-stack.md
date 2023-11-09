@@ -115,7 +115,7 @@ No, A lot of candidates would hopefully appreciate the work they have put in to 
 
 We have seen endless take home tasks from other companies that you spend few days to work on and that goes to waste.
 
-We also give you an option to delete all the code they have written at the end of the interview. If you choose this, please send a PR deleting all of your code and we will merge that in. 
+We also give you an option to delete all the code you have written at the end of the interview. If you choose this, please send a PR deleting all of your code and we will merge that in. 
 
 **What happens if I'm rejected?**
 
