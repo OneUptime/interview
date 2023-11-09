@@ -109,6 +109,13 @@ You need to give us of atleast 3 people who have worked with you in the past, id
 
 ### FAQ
 
+**Are you using interviews to tackle your backlog?**
+
+No, A lot of candidates would hopefully appreciate the work they have put in to the interview does not go to waste and is part of some FOSS project out there.
+
+We have seen endless take home tasks from other companies that you spend few days to work on and that goes to waste.
+
+We also give you an option to delete all the code they have written at the end of the interview. If you choose this, please send a PR deleting all of your code and we will merge that in. 
 
 **What happens if I'm rejected?**
 
