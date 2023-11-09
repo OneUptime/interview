@@ -121,6 +121,10 @@ We also give you an option to delete all the code you have written at the end of
 
 If you're rejected, the issues and code you've worked on belongs to the open source project https://github.com/oneuptime/oneuptime. your code belongs to the community and is MIT licensed and is free for anyone to fork and use. You can continue contriuting if you like and pick up more issues if you're interested, a lot of developers who work with us have improved their skills this way before joining us. Keep contributing if you're interested, and be proud you're creating an open-source SRE and DevSecOps solution for the world to use. 
 
+We also give you an option to delete all the code you have written at the end of the interview. If you choose this, please send a PR deleting all of your code and we will merge that in.
+
+
+
 **Where are you based?**
 
 This job is remote.  
