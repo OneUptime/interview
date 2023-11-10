@@ -12,6 +12,7 @@ You will be working on these technologies when you’re working with us.
 * Postgres DB
 
 **Salary Range:** 200K USD/yr - 250K USD/yr
+**Level**: Staff Engineer 
 
 ### Job Description
 #### Responsibilities
@@ -70,23 +71,13 @@ Email us the following:
 - Join slack community listed on https://github.com/oneuptime/oneuptime
 - If you have any questions, you can ping @simlarsen
 
-**Round 1: NodeJS** 
+**Round 1: Contribute and work with the team** 
  - Our interview process is quite unique. It tells us how you'll be working with us in the real-world situation and as a part of the team. 
  - Please **fork** the gitHub repo https://github.com/oneuptime/oneuptime. 
- - Please head over to https://github.com/oneuptime/oneuptime/issues
- - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue". If you cannot find issues on GitHub. Please ping @simlarsen on Slack!
- - Please make sure these issues are backend related and do not ask you to write frontend code.
- - Timeline: 7 days. The task shouldn't take this long. We just like to give you more breathing room when you're working on the issues. It should ideally take about 2-3 hours per issue. 
- - Branch out from master, and work on your issue. Please create a Pull Request when done. Please note, your work should have tests written for it, if appropriate. 
- - Once you create a PR, one of our team members will review it and will either merge in it or request changes and leave a review. Please work on the review and re-request review. We will do this until your PR is merged in. 
- - If we request changes on your PR, we do not mean to reject you. Its an opportunity for us to learn about how you respond to those comments and how it feels to work together. 
- - Once _both_ of your issues are merged in successfully. Consider this round done. You should get a confirmation from us via email. 
+ - Please run the software and see if there are any improvements you can make. This could be UI, Tests, Components or anything you like.
+ - This is a **staff level** interview (hence high-pay). Please work on things that are non-trivial. We’ve had several people send us trivial PR’s and have been denied. Writing tests for a button component won't cut it. If your code can be replicated by a simple GitHub Copilot prompt - then this interview is not for you. Please take your time to understand this software and then work anything you like.
+ - Talk to @simlarsen on Slack and discuss, just like you would when you're the part of the team. 
 
-**Round 2: React** 
- - Please head over to https://github.com/oneuptime/oneuptime/issues
- - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue". If you cannot find issues on GitHub. Please ping @simlarsen on Slack!
- - Please make sure these issues are react related and do not ask you to write frontend code.
- - Follow the exact same steps that you've done for the Backend Round (Round 1)
 
 **Round 3:** A call with the CEO. Please keep 1 hour free for this call. 
 - Tech Q&A (~30 mins)
@@ -117,13 +108,15 @@ We have seen endless take home tasks from other companies that you spend few day
 
 We also give you an option to delete all the code you have written at the end of the interview. If you choose this, please send a PR deleting all of your code and we will merge that in. 
 
+**Any tips for this interview?**
+
+This is a **staff level** interview (hence high-pay). Please work on things that are non-trivial. We’ve had several people send us trivial PR’s and have been denied. Writing tests for a button component won't cut it. If your code can be replicated by a simple GitHub Copilot prompt - then this interview is not for you. Please take your time to understand this software and then work anything you like. 
+
 **What happens if I'm rejected?**
 
 If you're rejected, the issues and code you've worked on belongs to the open source project https://github.com/oneuptime/oneuptime. your code belongs to the community and is MIT licensed and is free for anyone to fork and use. You can continue contriuting if you like and pick up more issues if you're interested, a lot of developers who work with us have improved their skills this way before joining us. Keep contributing if you're interested, and be proud you're creating an open-source SRE and DevSecOps solution for the world to use. 
 
 We also give you an option to delete all the code you have written at the end of the interview. If you choose this, please send a PR deleting all of your code and we will merge that in.
-
-
 
 **Where are you based?**
 
