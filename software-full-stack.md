@@ -12,6 +12,7 @@ You will be working on these technologies when you’re working with us.
 * Postgres DB
 
 **Salary Range:** 200K USD/yr - 250K USD/yr
+
 **Level**: Staff Engineer 
 
 ### Job Description
