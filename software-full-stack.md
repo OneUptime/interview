@@ -80,7 +80,7 @@ Email us the following:
  - Talk to @simlarsen on Slack and discuss, just like you would when you're the part of the team. 
 
 
-**Round 3:** A call with the CEO. Please keep 1 hour free for this call. 
+**Round 2:** A call with the CEO. Please keep 1 hour free for this call. 
 - Tech Q&A (~30 mins)
 - Culture fit.  (~15 mins) 
 - Misc (~15 mins)
