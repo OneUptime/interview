@@ -77,7 +77,8 @@ Email us the following:
  - Please **fork** the gitHub repo https://github.com/oneuptime/oneuptime. 
  - Please run the software and see if there are any improvements you can make. This could be UI, Tests, Components or anything you like.
  - This is a **staff level** interview (hence high-pay). Please work on things that are non-trivial. We’ve had several people send us trivial PR’s and have been denied. Writing tests for a button component won't cut it. If your code can be replicated by a simple GitHub Copilot prompt - then this interview is not for you. Please take your time to understand this software and then work anything you like.
- - Talk to @simlarsen on Slack and discuss, just like you would when you're the part of the team. 
+ - Talk to @simlarsen on Slack and discuss, just like you would when you're the part of the team.
+ - **Note**: If you do not prefer working on an open source project but need a take home task instead. please let us know at interviews@oneuptime.com 
 
 
 **Round 2:** A call with the CEO. Please keep 1 hour free for this call. 
