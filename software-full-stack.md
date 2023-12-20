@@ -81,7 +81,7 @@ Email us the following:
 
 
 **Round 2:** A call with the CEO. Please keep 1 hour free for this call. 
-- Tech Q&A (~30 mins)
+- System Design + Tech Q&A (~45 mins)
 - Culture fit.  (~15 mins) 
 - Misc (~15 mins)
 
