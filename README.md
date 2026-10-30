@@ -3,7 +3,7 @@
 Thank you for interviewing with OneuUptime. We're currently interviewing and hiring for these roles:
 
 **Software Engineering**
-- [Full Stack Developer](/software-full-stack.md)
+- [Full Stack Developer](/software-full-stack.md) - No vacancies at the moment. We have paused hiring here. 
 
 **Sales**
 - [Business Development Rep](/sales-bdr.md)
